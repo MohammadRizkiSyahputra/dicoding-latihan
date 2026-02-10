@@ -1,2 +1,2 @@
 # dicoding-latihan
-Ya latihan git
+Halo ini adalah salah satu langkah di dicoding course mengedit readme.md
